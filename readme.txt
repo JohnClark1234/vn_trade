@@ -7,5 +7,5 @@ Git tracks changes.
 Git tracks changes of files.
 Git is good wordeditor.
 This is modify on branch.
-
+Creating a new branch is quick and simple.
 
